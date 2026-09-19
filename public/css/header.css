@@ -37,7 +37,6 @@ body {
     grid-column: 1 / 4;
     color: black;
     text-decoration: none;
-
     font-size: 30px;
     font-weight:bolder;
 }
@@ -48,7 +47,6 @@ body {
 
 .nav-links {
     grid-column: 7 / 13;
-
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -57,7 +55,6 @@ body {
 .nav-links a {
     color: #222;
     text-decoration: none;
-
     font-size: 14px;
 }
 
@@ -68,9 +65,8 @@ body {
 .contact-btn {
     background-color: #000000;
     color: #E5E5E5 !important;
-
     padding: 7px 12px;
-    border-radius: 7px;
+    border-radius: 10px;
 }
 
 .nav-links a:hover {
