@@ -22,6 +22,9 @@
             <a href="/about">About me</a>
             <a href="/projects">Projects</a>
             <a href="/experience">Experience</a>
+            <a> Github </a>
+            <a> facebook </a>
+            <a> Instagram </a>
             <a href="/contact" class="contact-btn">
                 Contact me!
             </a>
